@@ -24,5 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 .setGuidelines(CropImageView.Guidelines.ON)
                 .start(this);
 
+        String sText = getString(R.string.tv_content);
+
     }
 }

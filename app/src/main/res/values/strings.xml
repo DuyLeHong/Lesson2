@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Lesson2</string>
+    <string name="app_name">Bai so 2</string>
+
+    <string name="tv_content">Noi dung text gi do</string>
 </resources>
